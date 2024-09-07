@@ -1,0 +1,5 @@
+//Receipts
+date // partition key, String
+customerId // sort key, String
+totalAmount // number
+sundaesPurchased // list Of Strings

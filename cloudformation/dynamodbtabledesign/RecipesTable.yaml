@@ -101,3 +101,5 @@ Resources:
         Fn::GetAtt: [ InitFunction , "Arn" ]
       DynamoTableName:
         Ref: RecipesTable
+
+
